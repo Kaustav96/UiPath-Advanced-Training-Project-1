@@ -1,7 +1,6 @@
-# Advanced-Training-Project-1
-UiPath Level 3 Project - Assignment 1
+# UiPath Level 3 Project - Assignment 1
 
-
+# Exercise
 In this exercise, you will create a UiPath automation that performs the steps below.
 To achieve this, you will use the REFrameWork as the starting template and follow the UiPath development best practices.
 
